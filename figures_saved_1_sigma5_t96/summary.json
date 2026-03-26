@@ -1,0 +1,146 @@
+{
+  "total_rows": 2264,
+  "shield_rows": 1015,
+  "unshield_rows": 1249,
+  "block_range": {
+    "from": 16076984,
+    "to": 16798978
+  },
+  "timestamp_range": {
+    "from": 1669741055,
+    "to": 1678466507,
+    "from_iso": "2022-11-29T16:57:35+00:00",
+    "to_iso": "2023-03-10T16:41:47+00:00"
+  },
+  "unique_contract_addresses": 1,
+  "contract_address_counts_top": [
+    [
+      "0xfa7093cdd9ee6932b4eb2c9e1cde7ce00b1fa4b9",
+      2264
+    ]
+  ],
+  "unique_tokens": 30,
+  "token_counts_top": [
+    [
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      1440
+    ],
+    [
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      242
+    ],
+    [
+      "0x6b175474e89094c44da98b954eedeac495271d0f",
+      238
+    ],
+    [
+      "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      180
+    ],
+    [
+      "0xe76c6c83af64e4c60245d8c7de953df673a7a33d",
+      76
+    ],
+    [
+      "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      34
+    ],
+    [
+      "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      10
+    ],
+    [
+      "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+      4
+    ],
+    [
+      "0x645c52cf6c5c58aa4064494f5b5ffe9c7ec0d7d4",
+      4
+    ],
+    [
+      "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      3
+    ]
+  ],
+  "token_labels_top": [
+    [
+      "WETH (0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2)",
+      1440
+    ],
+    [
+      "USDC (0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48)",
+      242
+    ],
+    [
+      "DAI (0x6B175474E89094C44Da98b954EedeAC495271d0F)",
+      238
+    ],
+    [
+      "USDT (0xdAC17F958D2ee523a2206206994597C13D831ec7)",
+      180
+    ],
+    [
+      "0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D",
+      76
+    ],
+    [
+      "WBTC (0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599)",
+      34
+    ],
+    [
+      "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      10
+    ],
+    [
+      "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+      4
+    ],
+    [
+      "0x645C52CF6c5C58AA4064494f5b5FFE9C7EC0d7D4",
+      4
+    ],
+    [
+      "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      3
+    ]
+  ],
+  "feasible_candidate_sizes": {
+    "min": 0,
+    "median": 138.0,
+    "mean": 244.82866293034428,
+    "max": 681
+  },
+  "anonymity_scoring": {
+    "total_unshields": 1249,
+    "scored_unshields": 1245,
+    "empty_feasible_set_unshields": 4,
+    "score_stats": {
+      "min": 0.0,
+      "p10": 1.954508773770333e-12,
+      "median": 0.09263048308978787,
+      "mean": 0.0877057319888217,
+      "p90": 0.18148092596303872,
+      "max": 0.3602656199134654
+    },
+    "max_weight_stats": {
+      "min": 0.06307538376653961,
+      "p10": 0.408952013038687,
+      "median": 0.7733612454065176,
+      "mean": 0.7407690510928351,
+      "p90": 0.9999999999997361,
+      "max": 1.0
+    }
+  },
+  "selected_example_unshield": {
+    "tx_hash": "9d1ce7f890244c1f240bc3f2dac6f154d69babdc6d896ac67d7d5d6bfa238482",
+    "log_index": 26,
+    "block_number": 16798978,
+    "timestamp": 1678466507,
+    "timestamp_iso": "2023-03-10T16:41:47+00:00",
+    "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token_label": "WETH (0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2)",
+    "n_feasible": 681,
+    "anonymity_score": 0.2510114863166482,
+    "max_weight": 0.22748213401084166
+  }
+}

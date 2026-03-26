@@ -1,0 +1,24 @@
+total_rows: 2264
+shield_rows: 1015
+unshield_rows: 1249
+block_range: 16076984 -> 16798978
+timestamp_range: 2022-11-29T16:57:35+00:00 -> 2023-03-10T16:41:47+00:00
+unique_contract_addresses: 1
+unique_tokens: 30
+feasible_candidates_per_unshield: min=0, median=138.0, mean=244.83, max=681
+anonymity_scoring: scored=1245, empty_feasible=4
+anonymity_score_per_unshield: min=0.000, p10=0.000, median=0.093, mean=0.088, p90=0.181, max=0.360
+max_candidate_weight_per_unshield: min=0.063, p10=0.409, median=0.773, mean=0.741, p90=1.000, max=1.000
+selected_example_unshield: token=WETH (0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2), n=681, score=0.251, max_weight=0.227
+
+top_tokens:
+  WETH (0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2): 1440
+  USDC (0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48): 242
+  DAI (0x6B175474E89094C44Da98b954EedeAC495271d0F): 238
+  USDT (0xdAC17F958D2ee523a2206206994597C13D831ec7): 180
+  0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D: 76
+  WBTC (0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599): 34
+  0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE: 10
+  0x2e9d63788249371f1DFC918a52f8d799F4a38C94: 4
+  0x645C52CF6c5C58AA4064494f5b5FFE9C7EC0d7D4: 4
+  0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F: 3

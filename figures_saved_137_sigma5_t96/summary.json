@@ -1,0 +1,146 @@
+{
+  "total_rows": 572,
+  "shield_rows": 270,
+  "unshield_rows": 302,
+  "block_range": {
+    "from": 39007867,
+    "to": 40099985
+  },
+  "timestamp_range": {
+    "from": 1675751856,
+    "to": 1678261176,
+    "from_iso": "2023-02-07T06:37:36+00:00",
+    "to_iso": "2023-03-08T07:39:36+00:00"
+  },
+  "unique_contract_addresses": 1,
+  "contract_address_counts_top": [
+    [
+      "0x19b620929f97b7b990801496c3b361ca5def8c71",
+      572
+    ]
+  ],
+  "unique_tokens": 14,
+  "token_counts_top": [
+    [
+      "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      277
+    ],
+    [
+      "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      107
+    ],
+    [
+      "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      99
+    ],
+    [
+      "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      37
+    ],
+    [
+      "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      33
+    ],
+    [
+      "0x92a9c92c215092720c731c96d4ff508c831a714f",
+      4
+    ],
+    [
+      "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+      3
+    ],
+    [
+      "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+      3
+    ],
+    [
+      "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+      2
+    ],
+    [
+      "0xe5417af564e4bfda1c483642db72007871397896",
+      2
+    ]
+  ],
+  "token_labels_top": [
+    [
+      "WMATIC (0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270)",
+      277
+    ],
+    [
+      "USDC (0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174)",
+      107
+    ],
+    [
+      "DAI (0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063)",
+      99
+    ],
+    [
+      "USDT (0xc2132D05D31c914a87C6611C10748AEb04B58e8F)",
+      37
+    ],
+    [
+      "WETH (0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619)",
+      33
+    ],
+    [
+      "0x92A9C92C215092720C731c96D4Ff508c831a714f",
+      4
+    ],
+    [
+      "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
+      3
+    ],
+    [
+      "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      3
+    ],
+    [
+      "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      2
+    ],
+    [
+      "0xE5417Af564e4bFDA1c483642db72007871397896",
+      2
+    ]
+  ],
+  "feasible_candidate_sizes": {
+    "min": 0,
+    "median": 28.5,
+    "mean": 40.15562913907285,
+    "max": 135
+  },
+  "anonymity_scoring": {
+    "total_unshields": 302,
+    "scored_unshields": 294,
+    "empty_feasible_set_unshields": 8,
+    "score_stats": {
+      "min": 0.0,
+      "p10": 1.89e-28,
+      "median": 0.025527635684749132,
+      "mean": 0.0715707451344451,
+      "p90": 0.1878113637928849,
+      "max": 0.5738034716246262
+    },
+    "max_weight_stats": {
+      "min": 0.13735656777273358,
+      "p10": 0.5001283666877234,
+      "median": 0.9743289618876129,
+      "mean": 0.8352161039903643,
+      "p90": 1.0,
+      "max": 1.0
+    }
+  },
+  "selected_example_unshield": {
+    "tx_hash": "4fd108a5bd8d329b3956709c469d425d499deb2c10d1d3d46d48e504a8989a44",
+    "log_index": 400,
+    "block_number": 40099985,
+    "timestamp": 1678261176,
+    "timestamp_iso": "2023-03-08T07:39:36+00:00",
+    "token": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "token_label": "USDC (0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174)",
+    "n_feasible": 43,
+    "anonymity_score": 0.04659067296361569,
+    "max_weight": 0.9341198513865625
+  }
+}

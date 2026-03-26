@@ -1,0 +1,24 @@
+total_rows: 650
+shield_rows: 266
+unshield_rows: 384
+block_range: 25005502 -> 26595839
+timestamp_range: 2023-01-22T11:16:34+00:00 -> 2023-03-19T09:05:57+00:00
+unique_contract_addresses: 1
+unique_tokens: 18
+feasible_candidates_per_unshield: min=0, median=54.0, mean=70.57, max=165
+anonymity_scoring: scored=382, empty_feasible=2
+anonymity_score_per_unshield: min=0.000, p10=0.000, median=0.070, mean=0.103, p90=0.284, max=0.699
+max_candidate_weight_per_unshield: min=0.233, p10=0.540, median=0.924, mean=0.837, p90=1.000, max=1.000
+selected_example_unshield: token=WBNB (0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c), n=165, score=0.312, max_weight=0.582
+
+top_tokens:
+  WBNB (0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c): 384
+  BUSD (0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56): 145
+  USDT (0x55d398326f99059fF775485246999027B3197955): 46
+  USDC (0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d): 26
+  DAI (0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3): 20
+  0x4D9927a8Dc4432B93445dA94E4084D292438931F: 10
+  0x7dDEE176F665cD201F93eEDE625770E2fD911990: 3
+  0x2170Ed0880ac9A755fd29B2688956BD959F933F8: 2
+  0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe: 2
+  0xA07c5b74C9B40447a954e1466938b865b6BBea36: 2
