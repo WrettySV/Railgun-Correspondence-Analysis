@@ -10,7 +10,7 @@ This project analyzes possible correspondences between `Shield` and `Unshield` e
 - anonymity scoring with entropy and subset-sum multiplicity components
 - scripts for offline analysis and figure generation across Ethereum, BSC, and Polygon
 
-## Quick run (offline analysis)
+## Quick run
 
 ```bash
 python scripts/analyze_saved_dataset.py --network ethereum
